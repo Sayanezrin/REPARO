@@ -147,5 +147,6 @@ body{
     }
 }
 #sub{
-    color:rgb(96, 140, 96);
+    color:rgb(255, 255, 255);
+    background-color:rgb(8, 41, 8)
 }
